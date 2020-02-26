@@ -15,3 +15,4 @@ describe('greet()', () => {
     expect(curried('friend')).to.equal('Yo, friend!');
   });
 });
+
